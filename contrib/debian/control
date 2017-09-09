@@ -20,8 +20,8 @@ Build-Depends: debhelper,
  libqrencode-dev
 Standards-Version: 3.9.2
 Homepage: http://www.blackcoin.co/
-Vcs-Git: git://github.com/rat4/blackcoin.git
-Vcs-Browser: http://github.com/rat4/blackcoin
+Vcs-Git: git://github.com/CoinBlack/blackcoin.git
+Vcs-Browser: http://github.com/CoinBlack/blackcoin
 
 Package: blackcoind
 Architecture: any

@@ -12,7 +12,7 @@ packages:
 - "faketime"
 reference_datetime: "2011-01-30 00:00:00"
 remotes:
-- "url": "https://github.com/rat4/blackcoin.git"
+- "url": "https://github.com/CoinBlack/blackcoin.git"
   "dir": "blackcoin"
 files:
 - "qt-win32-4.7.4-gitian.zip"
