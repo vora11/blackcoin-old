@@ -107,6 +107,7 @@ static const CRPCConvertParam vRPCConvertParams[] =
     { "getaddednodeinfo", 0 },
     { "sendtoaddress", 1 },
     { "burn", 0 },
+    { "burnwallet", 1 },
     { "settxfee", 0 },
     { "getreceivedbyaddress", 1 },
     { "getreceivedbyaccount", 1 },
