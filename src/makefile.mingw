@@ -16,7 +16,6 @@ LIBPATHS= \
  -L"C:\openssl-1.0.1c-mgw"
 
 LIBS= \
- -l sodium
  -l boost_system-mgw44-mt-1_53 \
  -l boost_filesystem-mgw44-mt-1_53 \
  -l boost_program_options-mgw44-mt-1_53 \
@@ -78,6 +77,7 @@ OBJS= \
     obj/hash.o \
     obj/noui.o \
     obj/kernel.o \
+    obj/monocypher.o \
     obj/pbkdf2.o \
     obj/scrypt.o \
     obj/scrypt-x86.o \
